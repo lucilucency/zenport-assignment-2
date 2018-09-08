@@ -177,10 +177,19 @@ class App extends Component {
   };
 
   end = (callback) => {
-    const lastIndex = this.steps.length - 1;
-    this.setState({
-      stepIndex: lastIndex,
-    }, callback);
+    const { booking } = this.props;
+    delete booking.dishes;
+    booking.orders.forEach(el => {
+      delete el.dishes;
+    });
+
+    const submitData = {
+      ...booking,
+    };
+
+    console.log(submitData);
+
+    if (callback) callback();
   };
 
   render() {
@@ -208,7 +217,7 @@ class App extends Component {
                 <div style={{ marginTop: '1em', marginBottom: '1em' }}>
                   {stepIndex !== 0 && <button className="btn-back" onClick={e => this.previous()}>Previous</button>}
                   {stepIndex !== this.steps.length - 1 && <button className="btn-next" onClick={step.next}>Next</button>}
-                  {stepIndex === this.steps.length - 1 && <button className="btn-end" onClick={step.end}>Submit</button>}
+                  {stepIndex === this.steps.length - 1 && <button className="btn-end" onClick={e => this.end()}>Submit</button>}
                 </div>
               </div>
             )}
@@ -221,6 +230,7 @@ class App extends Component {
 
 const mapStateToProps = state => ({
   dishes: state.app.dishes.data,
+  booking: state.app.booking.data,
 });
 
 const mapDispatchToProps = dispatch => ({

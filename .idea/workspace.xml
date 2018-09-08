@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78c9d5f9-96ea-4bd9-aab7-bbe309287182" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
-    </list>
-    <ignored path="$PROJECT_DIR$/../.tmp/" />
-    <ignored path="$PROJECT_DIR$/../temp/" />
-    <ignored path="$PROJECT_DIR$/../tmp/" />
+    <list default="true" id="78c9d5f9-96ea-4bd9-aab7-bbe309287182" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/../../../.tmp/" />
+    <ignored path="$PROJECT_DIR$/../../../temp/" />
+    <ignored path="$PROJECT_DIR$/../../../tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +13,82 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="Step4.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../src/components/Step4.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="67" column="59" lean-forward="false" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <marker date="1536399385738" expanded="true" signature="259:291" ph="{...}" />
+                <marker date="1536399385738" expanded="true" signature="271:290" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Step3.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../src/components/Step3.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="171" column="36" lean-forward="false" selection-start-line="171" selection-start-column="36" selection-end-line="171" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1536399575866" expanded="true" signature="264:356" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Step2.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../src/components/Step2.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="139" column="12" lean-forward="false" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Step1.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../src/components/Step1.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="121" column="12" lean-forward="false" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1536399575870" expanded="true" signature="280:1051" ph="{...}" />
+                <marker date="1536399575870" expanded="true" signature="291:358" ph="{...}" />
+                <marker date="1536399575870" expanded="true" signature="372:473" ph="{...}" />
+                <marker date="1536399575870" expanded="true" signature="486:509" ph="{...}" />
+                <marker date="1536399575870" expanded="true" signature="524:600" ph="{...}" />
+                <marker date="1536399575870" expanded="true" signature="627:702" ph="..." />
+                <marker date="1536399575870" expanded="true" signature="717:760" ph="{...}" />
+                <marker date="1536399575870" expanded="true" signature="781:789" ph="{...}" />
+                <marker date="1536399575870" expanded="true" signature="820:849" ph="{...}" />
+                <marker date="1536399575870" expanded="true" signature="874:985" ph="{...}" />
+                <marker date="1536399575870" expanded="true" signature="1016:1050" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,11 +99,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>localUpdate</find>
-      <find>validateAll</find>
-      <find>getState</find>
-      <find>submitPro</find>
-      <find>submitProcess</find>
       <find>.App-head</find>
       <find>validate</find>
       <find>mini</find>
@@ -56,36 +124,46 @@
       <find>.diff</find>
       <find>diff</find>
       <find>&gt;&gt;&gt;</find>
+      <find>form</find>
+      <find>&lt;form</find>
+      <find>.map</find>
+      <find>notSelectedDishes</find>
+      <find>notSelectedDishes.map</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../src/index.js" />
-        <option value="$PROJECT_DIR$/../src/App.css" />
-        <option value="$PROJECT_DIR$/../src/components/index.js" />
-        <option value="$PROJECT_DIR$/../src/utils/ValidationRules.js" />
-        <option value="$PROJECT_DIR$/../src/reducer.js" />
-        <option value="$PROJECT_DIR$/../src/reducers/reducer.js" />
-        <option value="$PROJECT_DIR$/../src/utils/validator.js" />
-        <option value="$PROJECT_DIR$/../src/utils/index.js" />
-        <option value="$PROJECT_DIR$/../src/dishes.json" />
-        <option value="$PROJECT_DIR$/../src/store.js" />
-        <option value="$PROJECT_DIR$/../.babelrc" />
-        <option value="$PROJECT_DIR$/../tsconfig.json" />
-        <option value="$PROJECT_DIR$/../src/reducers/index.js" />
-        <option value="$PROJECT_DIR$/../src/components/Step1.jsx" />
-        <option value="$PROJECT_DIR$/../src/actions/dishes.json" />
-        <option value="$PROJECT_DIR$/../src/App.js" />
-        <option value="$PROJECT_DIR$/../src/components/Step4.jsx" />
-        <option value="$PROJECT_DIR$/../src/components/Step2.jsx" />
-        <option value="$PROJECT_DIR$/../src/components/Step3.jsx" />
-        <option value="$PROJECT_DIR$/../src/actions/index.js" />
-        <option value="$PROJECT_DIR$/../README.md" />
-        <option value="$PROJECT_DIR$/../package.json" />
+        <option value="$PROJECT_DIR$/../../../src/index.js" />
+        <option value="$PROJECT_DIR$/../../../src/App.css" />
+        <option value="$PROJECT_DIR$/../../../src/components/index.js" />
+        <option value="$PROJECT_DIR$/../../../src/utils/ValidationRules.js" />
+        <option value="$PROJECT_DIR$/../../../src/reducer.js" />
+        <option value="$PROJECT_DIR$/../../../src/reducers/reducer.js" />
+        <option value="$PROJECT_DIR$/../../../src/utils/validator.js" />
+        <option value="$PROJECT_DIR$/../../../src/utils/index.js" />
+        <option value="$PROJECT_DIR$/../../../src/dishes.json" />
+        <option value="$PROJECT_DIR$/../../../src/store.js" />
+        <option value="$PROJECT_DIR$/../../../.babelrc" />
+        <option value="$PROJECT_DIR$/../../../tsconfig.json" />
+        <option value="$PROJECT_DIR$/../../../src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/../../../src/components/Step1.jsx" />
+        <option value="$PROJECT_DIR$/../../../src/actions/dishes.json" />
+        <option value="$PROJECT_DIR$/../../../src/App.js" />
+        <option value="$PROJECT_DIR$/../../../src/components/Step4.jsx" />
+        <option value="$PROJECT_DIR$/../../../src/components/Step2.jsx" />
+        <option value="$PROJECT_DIR$/../../../src/components/Step3.jsx" />
+        <option value="$PROJECT_DIR$/../../../src/actions/index.js" />
+        <option value="$PROJECT_DIR$/../../../README.md" />
+        <option value="$PROJECT_DIR$/../../../package.json" />
+        <option value="$PROJECT_DIR$/../../src/components/Step2.jsx" />
+        <option value="$PROJECT_DIR$/../../src/components/Step1.jsx" />
+        <option value="$PROJECT_DIR$/../../src/components/Step4.jsx" />
+        <option value="$PROJECT_DIR$/../../src/App.js" />
+        <option value="$PROJECT_DIR$/../../src/components/Step3.jsx" />
       </list>
     </option>
   </component>
@@ -107,9 +185,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/../../node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="116" />
-    <option name="y" value="213" />
+    <option name="y" value="173" />
     <option name="width" value="1510" />
     <option name="height" value="907" />
   </component>
@@ -129,19 +210,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="zenport-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zenport-demo-bak" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="zenport-demo-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="zenport-demo-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,8 +247,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../src/actions" />
-      <recent name="$PROJECT_DIR$/../src/components" />
+      <recent name="$PROJECT_DIR$/../../../src/actions" />
+      <recent name="$PROJECT_DIR$/../../../src/components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,31 +278,33 @@
       <updated>1536336123704</updated>
       <workItem from="1536336125120" duration="11894000" />
       <workItem from="1536370130280" duration="23633000" />
+      <workItem from="1536399262316" duration="317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35527000" />
+    <option name="totallyTimeSpent" value="35844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="213" width="1510" height="907" extended-state="0" />
+    <frame x="116" y="173" width="1510" height="907" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3302139" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3302139" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -227,269 +321,103 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../src/index.js">
+    <entry file="file://$PROJECT_DIR$/../../../src/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/store.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/registerServiceWorker.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/reducers/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/reducers/reducer.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/components/Step1.jsx" />
+    <entry file="file://$PROJECT_DIR$/../../../src/utils/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/utils/validator.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/App.test.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/App.js" />
+    <entry file="file://$PROJECT_DIR$/../../../yarn.lock" />
+    <entry file="file://$PROJECT_DIR$/../../../src/index.css" />
+    <entry file="file://$PROJECT_DIR$/../../../src/App.css" />
+    <entry file="file://$PROJECT_DIR$/../../../src/components/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/App.test.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/utils/ValidationRules.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/reducer.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/registerServiceWorker.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/utils/validator.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/utils/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/store.js" />
+    <entry file="file://$PROJECT_DIR$/../../../.babelrc" />
+    <entry file="file://$PROJECT_DIR$/../../../tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/../../../src/reducers/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/reducers/reducer.js" />
+    <entry file="file://$PROJECT_DIR$/../../../src/actions/dishes.json" />
+    <entry file="file://$PROJECT_DIR$/../../../src/components/Step1.jsx" />
+    <entry file="file://$PROJECT_DIR$/../../../src/components/Step4.jsx" />
+    <entry file="file://$PROJECT_DIR$/../../../src/components/Step2.jsx" />
+    <entry file="file://$PROJECT_DIR$/../../../src/components/Step3.jsx" />
+    <entry file="file://$PROJECT_DIR$/../../../src/actions/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../../README.md" />
+    <entry file="file://$PROJECT_DIR$/../../../package.json" />
+    <entry file="file://$PROJECT_DIR$/../../../src/App.js" />
+    <entry file="file://$PROJECT_DIR$/../../../.gitignore" />
+    <entry file="file://$PROJECT_DIR$/../../src/components/Step2.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="52">
+          <caret line="139" column="12" lean-forward="false" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/store.js">
+    <entry file="file://$PROJECT_DIR$/../../src/components/Step4.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="169">
+          <caret line="67" column="59" lean-forward="false" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1536399385738" expanded="true" signature="259:291" ph="{...}" />
+            <marker date="1536399385738" expanded="true" signature="271:290" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/registerServiceWorker.js">
+    <entry file="file://$PROJECT_DIR$/../../src/components/Step1.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="169">
+          <caret line="121" column="12" lean-forward="false" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/reducers/index.js">
+    <entry file="file://$PROJECT_DIR$/../../src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="304">
+          <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1536399575870" expanded="true" signature="280:1051" ph="{...}" />
+            <marker date="1536399575870" expanded="true" signature="291:358" ph="{...}" />
+            <marker date="1536399575870" expanded="true" signature="372:473" ph="{...}" />
+            <marker date="1536399575870" expanded="true" signature="486:509" ph="{...}" />
+            <marker date="1536399575870" expanded="true" signature="524:600" ph="{...}" />
+            <marker date="1536399575870" expanded="true" signature="627:702" ph="..." />
+            <marker date="1536399575870" expanded="true" signature="717:760" ph="{...}" />
+            <marker date="1536399575870" expanded="true" signature="781:789" ph="{...}" />
+            <marker date="1536399575870" expanded="true" signature="820:849" ph="{...}" />
+            <marker date="1536399575870" expanded="true" signature="874:985" ph="{...}" />
+            <marker date="1536399575870" expanded="true" signature="1016:1050" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/reducers/reducer.js">
+    <entry file="file://$PROJECT_DIR$/../../src/components/Step3.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/components/Step1.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="127" column="18" lean-forward="false" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/utils/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/utils/validator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3315">
-          <caret line="198" column="20" lean-forward="true" selection-start-line="198" selection-start-column="20" selection-end-line="198" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../yarn.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/App.css" />
-    <entry file="file://$PROJECT_DIR$/../src/components/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/utils/ValidationRules.js" />
-    <entry file="file://$PROJECT_DIR$/../src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/reducer.js" />
-    <entry file="file://$PROJECT_DIR$/../src/registerServiceWorker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/utils/validator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/utils/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="14" column="79" lean-forward="false" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/reducers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/reducers/reducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/actions/dishes.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-926">
-          <caret line="121" column="6" lean-forward="false" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/components/Step1.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="139" column="156" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/components/Step4.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/components/Step2.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="134" column="18" lean-forward="false" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/components/Step3.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="146" column="36" lean-forward="false" selection-start-line="146" selection-start-column="36" selection-end-line="146" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/actions/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="2479" column="0" lean-forward="false" selection-start-line="2479" selection-start-column="0" selection-end-line="2479" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="141" column="30" lean-forward="true" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="169">
+          <caret line="171" column="36" lean-forward="false" selection-start-line="171" selection-start-column="36" selection-end-line="171" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1536399575866" expanded="true" signature="264:356" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

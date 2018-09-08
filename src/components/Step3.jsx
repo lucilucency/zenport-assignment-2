@@ -169,7 +169,7 @@ class Step3 extends Component {
               }}
             >
               <option value="">---</option>
-              {notSelectedDishes.map(r => (
+              {notSelectedDishes && notSelectedDishes.map(r => (
                 <option value={r} key={r}>{r}</option>
               ))}
             </select>
@@ -209,16 +209,16 @@ class Step3 extends Component {
 
     return (
       <div>
-        <form>
+        <div>
           {orders.map((order, index) => {
             return (
-              <div>
+              <div key={index}>
                 {this.renderOrder(index, order.dishes)}
               </div>
             )
           })}
           <button onClick={this.addOrder}>Add</button>
-        </form>
+        </div>
       </div>
     );
   }

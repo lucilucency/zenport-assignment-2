@@ -137,7 +137,7 @@ class Step2 extends Component {
 
     return (
       <div>
-        <form>
+        <div>
           <div>
             <label>
               Please select a restaurant:
@@ -155,7 +155,7 @@ class Step2 extends Component {
             </label>
             <p style={{color: "red"}}>{this.state.formErrors["restaurant"].join(', ')}</p>
           </div>
-        </form>
+        </div>
       </div>
     );
   }

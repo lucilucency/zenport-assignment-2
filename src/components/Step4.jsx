@@ -145,7 +145,7 @@ class Step1 extends Component {
             Dishes
             <ul>
               {booking.orders.map(order => (
-                <li>
+                <li key={order.selected}>
                   <label>{order.selected} <span>{order.servings}</span></label>
                 </li>
               ))}

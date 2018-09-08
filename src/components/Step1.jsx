@@ -119,7 +119,7 @@ class Step1 extends Component {
   render() {
     return (
       <div>
-        <form>
+        <div>
           <div>
             <label>
               Please select a meal:
@@ -144,7 +144,7 @@ class Step1 extends Component {
           <div>
 
           </div>
-        </form>
+        </div>
       </div>
     );
   }
